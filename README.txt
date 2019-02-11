@@ -1,2 +1,2 @@
-# demo2
-demo2 repository
+This is a README file. it is for repo demo2
+
